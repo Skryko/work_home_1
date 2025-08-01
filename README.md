@@ -2,3 +2,6 @@
 *1 https://hub.docker.com/repositories/skryko
 
 *2![скриншот к 2 заданию](two.png)
+
+*3![скриншоты к заданию](3job)
+
